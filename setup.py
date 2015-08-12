@@ -22,7 +22,7 @@ def read(*parts):
 
 
 setup(name='aioavast',
-      version='1.0.0',
+      version='1.0.1',
       description=('Asyncio library for Avast antivirus'),
       long_description=read('README.rst'),
       url='http://github.com/earada/aioavast',
